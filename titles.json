@@ -1,18 +1,8 @@
 [
   {
-    "contentId": "",
-    "title": "Five Nights at Freddy's",
-    "description": "",
-    "releaseDate": "2023",
-    "directors": "",
-    "rokuLink": "",
-    "sourceId": 1237,
-    "device": "R"
-  },
-  {
     "contentId": "009c6b5c636f50a7a7ab33801b0e3a20",
     "title": "The Holiday Shift",
-    "description": "",
+    "description": "A group of friends who work together at an upscale mall in Love, Ohio learn that love always wins in this romantic and cinematic comedy set during a magical holiday season.",
     "releaseDate": "2023-2023",
     "directors": "",
     "rokuLink": "https://therokuchannel.roku.com/details/009c6b5c636f50a7a7ab33801b0e3a20",
@@ -22,7 +12,7 @@
   {
     "contentId": "09f1e16792d451a0a25b60eeb48c5238",
     "title": "Martha Cooks",
-    "description": "",
+    "description": "Martha Stewart welcomes viewers to her farm kitchen, where she shares favorite recipes, cooking techniques and how-to instructions.",
     "releaseDate": "2022-2023",
     "directors": "",
     "rokuLink": "https://therokuchannel.roku.com/details/09f1e16792d451a0a25b60eeb48c5238",
@@ -30,69 +20,19 @@
     "device": "R"
   },
   {
-    "contentId": "",
-    "title": "Barbie",
-    "description": "",
-    "releaseDate": "2023",
-    "directors": "",
-    "rokuLink": "",
-    "sourceId": 1237,
-    "device": "R"
-  },
-  {
-    "contentId": "",
-    "title": "Bluey",
-    "description": "",
-    "releaseDate": "2018-2022",
-    "directors": "",
-    "rokuLink": "",
-    "sourceId": 1237,
-    "device": "R"
-  },
-  {
-    "contentId": "",
-    "title": "The Golden Bachelor",
-    "description": "",
-    "releaseDate": "2023-2023",
-    "directors": "",
-    "rokuLink": "",
-    "sourceId": 1237,
-    "device": "R"
-  },
-  {
     "contentId": "e7c1c173526e5ea0930e70a731ee0776",
     "title": "Spider-Man: No Way Home",
-    "description": "",
+    "description": "When Peter Parker asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
     "releaseDate": "2021",
-    "directors": "",
+    "directors": "Jon Watts",
     "rokuLink": "https://therokuchannel.roku.com/details/e7c1c173526e5ea0930e70a731ee0776",
-    "sourceId": 1237,
-    "device": "R"
-  },
-  {
-    "contentId": "",
-    "title": "Ruby Gillman, Teenage Kraken",
-    "description": "",
-    "releaseDate": "U.S. Voice Cast, 2023",
-    "directors": "",
-    "rokuLink": "",
-    "sourceId": 1237,
-    "device": "R"
-  },
-  {
-    "contentId": "",
-    "title": "The Super Mario Bros. Movie",
-    "description": "",
-    "releaseDate": "U.S. Voice Cast, 2023",
-    "directors": "",
-    "rokuLink": "",
     "sourceId": 1237,
     "device": "R"
   },
   {
     "contentId": "67ca18fb4816521db4f188855569c21e",
     "title": "The Great American Baking Show: Celebrity Holiday",
-    "description": "",
+    "description": "Six celebrities join The Great American Baking Show judges Paul Hollywood and Prue Leith in the iconic tent. With holiday humor they whisk, bake, and fake their way through three challenges.",
     "releaseDate": "2022-2023",
     "directors": "",
     "rokuLink": "https://therokuchannel.roku.com/details/67ca18fb4816521db4f188855569c21e",
@@ -100,21 +40,11 @@
     "device": "R"
   },
   {
-    "contentId": "",
-    "title": "Trolls World Tour",
-    "description": "",
-    "releaseDate": "U.S. Voice Cast, 2020",
-    "directors": "",
-    "rokuLink": "",
-    "sourceId": 1237,
-    "device": "R"
-  },
-  {
     "contentId": "579518b0e6415b5fbe3ccd04d0b7c76b",
     "title": "A Christmas Karen",
-    "description": "",
+    "description": "Karen is an entitled middle-aged woman whose demanding nature has alienated her neighbors and family. After a series of incidents displaying her privilege and prejudice, Karen receives an 'intervention' by some unconventional spirits.",
     "releaseDate": "2022",
-    "directors": "",
+    "directors": "Jon Binkowski",
     "rokuLink": "https://therokuchannel.roku.com/details/579518b0e6415b5fbe3ccd04d0b7c76b",
     "sourceId": 1237,
     "device": "R"
@@ -122,9 +52,9 @@
   {
     "contentId": "7f9fe63648dd576d9c8fd8895003f8f8",
     "title": "Top Gun: Maverick",
-    "description": "",
+    "description": "Pete \"Maverick\" Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.",
     "releaseDate": "2022",
-    "directors": "",
+    "directors": "Joseph Kosinski",
     "rokuLink": "https://therokuchannel.roku.com/details/7f9fe63648dd576d9c8fd8895003f8f8",
     "sourceId": 1237,
     "device": "R"
@@ -132,20 +62,10 @@
   {
     "contentId": "b9be66c46a33532897b1553a0890ca4a",
     "title": "Sonic the Hedgehog 2",
-    "description": "",
+    "description": "Sonic and his sidekick, Tails, embark on a globe-trotting journey to find a mystical emerald that has the power to destroy civilizations.",
     "releaseDate": "2022",
-    "directors": "",
+    "directors": "Jeff Fowler",
     "rokuLink": "https://therokuchannel.roku.com/details/b9be66c46a33532897b1553a0890ca4a",
-    "sourceId": 1237,
-    "device": "R"
-  },
-  {
-    "contentId": "",
-    "title": "Yellowstone",
-    "description": "",
-    "releaseDate": "2018-2023",
-    "directors": "",
-    "rokuLink": "",
     "sourceId": 1237,
     "device": "R"
   }
