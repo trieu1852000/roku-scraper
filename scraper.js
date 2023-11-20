@@ -65,16 +65,16 @@ async function performScraping() {
 
         // Read the existing data from the JSON file (if it exists)
         let existingData = [];
-        if (fs.existsSync('titles.json')) {
-            existingData = JSON.parse(fs.readFileSync('titles.json'));
+        if (fs.existsSync('movies.json')) {
+            existingData = JSON.parse(fs.readFileSync('movies.json'));
         }
 
         // Append the newly collected data to the existing data
         const combinedData = existingData.concat(rokuItems);
 
         // Write the combined data back to the JSON file
-        fs.writeFileSync('titles.json', JSON.stringify(combinedData, null, 2));
-        console.log('Data has been extracted and saved to titles.json');
+        fs.writeFileSync('movies.json', JSON.stringify(combinedData, null, 2));
+        console.log('Data has been extracted and saved to movies.json');
     } catch (error) {
         console.error("Error:", error);
     } finally {
