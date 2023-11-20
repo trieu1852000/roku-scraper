@@ -9,14 +9,14 @@ async function performScraping() {
     const rokuItems = [];
 
     try {
-        for (let pageNum = 1; pageNum <= 2; pageNum++) {
+        for (let pageNum = 21; pageNum <= 40; pageNum++) {
             // Construct the URL for the Roku API page
             const pageUrl = `https://www.roku.com/api/v1/sow/search?page=${pageNum}`;
             await page.goto(pageUrl, { waitUntil: 'networkidle0' }); // Load the page
 
             // Get the page content and parse it using Cheerio
             const pageContent = await page.content();
-            const $ = cheerio.load(pageContent);
+            const $ = cheerio.load(pageContent);    
 
             // Parse the JSON data embedded in the page
             const data = JSON.parse($('body').text());
@@ -63,8 +63,17 @@ async function performScraping() {
             }
         }
 
-        // Write the collected data to a JSON file
-        fs.writeFileSync('titles.json', JSON.stringify(rokuItems, null, 2));
+        // Read the existing data from the JSON file (if it exists)
+        let existingData = [];
+        if (fs.existsSync('titles.json')) {
+            existingData = JSON.parse(fs.readFileSync('titles.json'));
+        }
+
+        // Append the newly collected data to the existing data
+        const combinedData = existingData.concat(rokuItems);
+
+        // Write the combined data back to the JSON file
+        fs.writeFileSync('titles.json', JSON.stringify(combinedData, null, 2));
         console.log('Data has been extracted and saved to titles.json');
     } catch (error) {
         console.error("Error:", error);
