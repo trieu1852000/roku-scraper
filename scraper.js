@@ -66,7 +66,7 @@ async function performScraping() {
         // Read the existing data from the JSON file (if it exists)
         let existingData = [];
         if (fs.existsSync('movies.json')) {
-            existingData = JSON.parse(fs.readFileSync('movies.json'));
+            existingData = JSON.parse(fs.readFileSync('moveis.json'));
         }
 
         // Append the newly collected data to the existing data
