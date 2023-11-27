@@ -8,12 +8,12 @@ async function performScraping() {
     const rokuItems = [];
 
     try {
-        for (let pageNum = 31; pageNum <= 35; pageNum++) {
+        for (let pageNum = 31; pageNum <= 35; pageNum++) { //choose page number I want to extract data from Roku
             const pageUrl = `https://www.roku.com/api/v1/sow/search?series=1&page=${pageNum}`;
             await page.goto(pageUrl, { waitUntil: 'networkidle0' });
 
             const pageContent = await page.content();
-            const $ = cheerio.load(pageContent);
+            const $ = cheerio.load(pageContent); 
 
             const data = JSON.parse($('body').text());
             const numMovies = data.view.length;
