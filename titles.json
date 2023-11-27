@@ -4,27 +4,32 @@
     "title": "The Holiday Shift",
     "description": "A group of friends who work together at an upscale mall in Love, Ohio learn that love always wins in this romantic and cinematic comedy set during a magical holiday season.",
     "releaseDate": "2023-2023",
-    "directors": "",
     "sourceId": 1237,
     "rokuLink": "https://therokuchannel.roku.com/details/009c6b5c636f50a7a7ab33801b0e3a20",
     "device": "R",
     "seasons": [
       {
-        "season": "season: 1",
+        "title": "Season 1",
+        "seasonNumber": "1",
         "episodes": [
           {
+            "episodeTitle": "The One",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "Love at First Sight",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "The Lean In",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "Long Distance",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "The Finale",
             "episodeNumber": "5"
           }
         ]
@@ -32,146 +37,603 @@
     ]
   },
   {
-    "contentId": "09f1e16792d451a0a25b60eeb48c5238",
-    "title": "Martha Cooks",
-    "description": "Martha Stewart welcomes viewers to her farm kitchen, where she shares favorite recipes, cooking techniques and how-to instructions.",
-    "releaseDate": "2022-2023",
-    "directors": "",
+    "contentId": "dda4a63df2a0583381908f46064c1ffc",
+    "title": "90 Day Fiance",
+    "description": "Using a unique 90 Day Fiance visa, overseas fiances will travel to the US to live with their partners for the first time. Each couple will have just 90 days to decide to get married or send their international mate home.",
+    "releaseDate": "2015-2023",
     "sourceId": 1237,
-    "rokuLink": "https://therokuchannel.roku.com/details/09f1e16792d451a0a25b60eeb48c5238",
+    "rokuLink": "https://therokuchannel.roku.com/details/dda4a63df2a0583381908f46064c1ffc",
     "device": "R",
     "seasons": [
       {
-        "season": "season: 1",
+        "title": "Season 1",
+        "seasonNumber": "1",
         "episodes": [
           {
+            "episodeTitle": "I Got My Visa!",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "Culture Shock",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Enough is Enough",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "90 Days Isn't Enough",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "Didn't Expect This",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "Time's Up",
             "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "10"
           }
         ]
       },
       {
-        "season": "season: 2",
+        "title": "Season 2",
+        "seasonNumber": "2",
         "episodes": [
           {
+            "episodeTitle": "New Couples, New Journeys",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "I'm Home America!",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Watch You Like a Hawk",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "Touchdown!",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "Mo' Money, Mo Problems",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "Fears, Family, Future",
             "episodeNumber": "6"
           },
           {
+            "episodeTitle": "I Have To Tell You Something",
             "episodeNumber": "7"
           },
           {
+            "episodeTitle": "Going Once, Going Twice, Gone?",
             "episodeNumber": "8"
           },
           {
+            "episodeTitle": "Red Flags",
             "episodeNumber": "9"
           },
           {
+            "episodeTitle": "I'm Gonna Go Home",
             "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "The Couples Tell All",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Where Are They Now?",
+            "episodeNumber": "101"
           }
         ]
       },
       {
-        "season": "season: 3",
+        "title": "Season 3",
+        "seasonNumber": "3",
         "episodes": [
           {
+            "episodeTitle": "Departures and Arrivals",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "Welcome to the Family",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Questions and Answers",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "Full of Surprises",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "Missing Home",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "Lights, Camera, Drama",
             "episodeNumber": "6"
           },
           {
+            "episodeTitle": "Don't Push Me",
             "episodeNumber": "7"
           },
           {
+            "episodeTitle": "Bachelorette Blues",
             "episodeNumber": "8"
           },
           {
+            "episodeTitle": "What Do You Know About Love?",
             "episodeNumber": "9"
           },
           {
+            "episodeTitle": "This Is It",
             "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Tell All",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Where Are They Now: Season 2",
+            "episodeNumber": "101"
           }
         ]
-      }
-    ]
-  },
-  {
-    "contentId": "b6c46cfe60ef5143bdf37e2aeb3427ab",
-    "title": "Lawmen: Bass Reeves",
-    "description": "From executive producers Taylor Sheridan and David Oyelowo, the untold story of the first Black U.S. Marshal, Bass Reeves.",
-    "releaseDate": "2023-2023",
-    "directors": "",
-    "sourceId": 1237,
-    "rokuLink": "https://therokuchannel.roku.com/details/b6c46cfe60ef5143bdf37e2aeb3427ab",
-    "device": "R",
-    "seasons": [
+      },
       {
-        "season": "season: 1",
+        "title": "Season 4",
+        "seasonNumber": "4",
         "episodes": [
           {
+            "episodeTitle": "For Your Eyes Only",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "You Say Goodbye, I Say Hello",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Meet the Family",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "Life's a Beach",
             "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Testing the Waters",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "I Can See the Cracks",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Time to Tell the Truth",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "This Is What You Came For",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "You're Gonna Miss Me",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Foreign Fiance Confessions",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Are You Ready For This?",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Too Little Too Late",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Speak Now or Hold Your Peace",
+            "episodeNumber": "13"
+          }
+        ]
+      },
+      {
+        "title": "Season 5",
+        "seasonNumber": "5",
+        "episodes": [
+          {
+            "episodeTitle": "Waiting Is the Hardest Part",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Parental Approval",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Bring On the 90 Days",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Good Morning America",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Family First",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Crossing the Line",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Welcome to Real Life",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Out of Nowhere",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Wake Up Call",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Breaking Point",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Second Thoughts",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "I Now Pronounce You",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Tell All",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Most OMG Moments",
+            "episodeNumber": "101"
+          }
+        ]
+      },
+      {
+        "title": "Season 6",
+        "seasonNumber": "6",
+        "episodes": [
+          {
+            "episodeTitle": "The Clock is Tickin'",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Young and Restless",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Rough Landings",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "I Know What You Did",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Not What I Thought",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Flirting With Disaster",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Ready to Run",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "No Way Out",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Backed Into a Corner",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Where Truth Lies",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Make It or Break It",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Tell All Part 1",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Tell All Part 2",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "90 Day LIVE",
+            "episodeNumber": "101"
+          },
+          {
+            "episodeTitle": "90 Day LIVE",
+            "episodeNumber": "102"
+          }
+        ]
+      },
+      {
+        "title": "Season 7",
+        "seasonNumber": "7",
+        "episodes": [
+          {
+            "episodeTitle": "I Want to Kiss You",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "They Don't Know",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "What Am I Worth to You?",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "We Need to Talk",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Premature Departure",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "The Truth Shall Set You Free",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Judgement Day",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "I Don't Have a Choice",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Choose Me",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Blindsided",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "I Do and I Don't Know",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Can I Get a Witness",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Tell All Part 1",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Tell All Part 2",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Most Outrageous Moments",
+            "episodeNumber": "101"
+          }
+        ]
+      },
+      {
+        "title": "Season 8",
+        "seasonNumber": "8",
+        "episodes": [
+          {
+            "episodeTitle": "I Think You're My Future Wife",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Shame on You",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Bless This Mess",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "What's Mine Is Mine",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Who's the Boss?",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "The Real You",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "You So Bad Boy",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Unsure and Insecure",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "The No Bang Theory",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "The Devil's Work",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Three's a Party",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "About Last Night",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Forgive but Never Forget",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Into Your Arms",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Love Me or Leave Me",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Second Guessing",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "First Comes Love",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "Tell All Part 1",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Tell All Part 2",
+            "episodeNumber": "19"
+          }
+        ]
+      },
+      {
+        "title": "Season 9",
+        "seasonNumber": "9",
+        "episodes": [
+          {
+            "episodeTitle": "Ketchup to My Mustard",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Home Sweet Hoax",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Pinot You Didn't",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Pasta La Vista",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Breast Intentions",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Have To Turn This Car Around",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "It's Me or the Bikini",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Get Off Your High Horse",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Poison in the Honey",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "In the Ring",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "How To Marry a Stripper",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Different Ex-pectations",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "The Elephant in the Womb",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Temperature Check",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Last Sip Single",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Here Comes the Pride",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "To Have and To Scold",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "Tell All Part 1",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Tell All Part 2",
+            "episodeNumber": "19"
+          }
+        ]
+      },
+      {
+        "title": "Season 10",
+        "seasonNumber": "10",
+        "episodes": [
+          {
+            "episodeTitle": "Dearly Beloved",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "We Are Gathered Here Today",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "To Witness the Beginning",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Of These Two Lovers",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Committed in Matrimony",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "If Anyone Objects",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Speak Now or Hold Your Peace",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Do You Take One Another?",
+            "episodeNumber": "8"
           }
         ]
       }
@@ -182,1043 +644,87 @@
     "title": "The Chosen",
     "description": "This drama about the life of Jesus Christ introduces Jesus and the calling of his initial disciples, with a discussion after each episode.",
     "releaseDate": "2017-2023",
-    "directors": "",
     "sourceId": 1237,
     "rokuLink": "https://therokuchannel.roku.com/details/22211048a0cc5d83938fb6a064d64dc6",
     "device": "R",
     "seasons": [
       {
-        "season": "season: 1",
+        "title": "Season 1",
+        "seasonNumber": "1",
         "episodes": [
           {
+            "episodeTitle": "I Have Called You by Name",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "Shabbat",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Jesus Loves the Little Children",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "The Rock on Which It Is Built",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "The Wedding Gift",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "Indescribable Compassion",
             "episodeNumber": "6"
           },
           {
+            "episodeTitle": "Invitations",
             "episodeNumber": "7"
           },
           {
+            "episodeTitle": "The Chosen",
             "episodeNumber": "8"
           },
           {
+            "episodeTitle": "The Shepherd",
             "episodeNumber": "9"
           }
         ]
       },
       {
-        "season": "season: 2",
+        "title": "Season 2",
+        "seasonNumber": "2",
         "episodes": [
           {
+            "episodeTitle": "The Chosen",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "The Chosen",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Matthew 4:24",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "The Perfect Opportunity",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "The Chosen",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "The Chosen",
             "episodeNumber": "6"
           },
           {
+            "episodeTitle": "The Chosen",
             "episodeNumber": "7"
           },
           {
+            "episodeTitle": "Beyond Mountains",
             "episodeNumber": "8"
-          }
-        ]
-      },
-      {
-        "season": "season: 2021",
-        "episodes": [
-          {
-            "episodeNumber": "9"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "contentId": "67ca18fb4816521db4f188855569c21e",
-    "title": "The Great American Baking Show: Celebrity Holiday",
-    "description": "Six celebrities join The Great American Baking Show judges Paul Hollywood and Prue Leith in the iconic tent. With holiday humor they whisk, bake, and fake their way through three challenges.",
-    "releaseDate": "2022-2023",
-    "directors": "",
-    "sourceId": 1237,
-    "rokuLink": "https://therokuchannel.roku.com/details/67ca18fb4816521db4f188855569c21e",
-    "device": "R",
-    "seasons": [
-      {
-        "season": "season: 2",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          }
-        ]
-      },
-      {
-        "season": "season: 1",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "contentId": "1027eda25bb55fb1af9ca2bf90fdc83e",
-    "title": "Chucky",
-    "description": "After a vintage Chucky doll turns up at a suburban yard sale, an idyllic American town is thrown into chaos.",
-    "releaseDate": "2021-2023",
-    "directors": "",
-    "sourceId": 1237,
-    "rokuLink": "https://therokuchannel.roku.com/details/1027eda25bb55fb1af9ca2bf90fdc83e",
-    "device": "R",
-    "seasons": [
-      {
-        "season": "season: 1",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "4"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          }
-        ]
-      },
-      {
-        "season": "season: 2",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "4"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "contentId": "fa1204cf208658109b5e91ee4952f6f6",
-    "title": "SpongeBob SquarePants",
-    "description": "Who lives in a pineapple under the sea? SpongeBob SquarePants! Follow the adventures of this enthusiastic sponge whose good intentions inevitably lead him and his friends into trouble.",
-    "releaseDate": "1999-2023",
-    "directors": "Vincent Waller",
-    "sourceId": 1237,
-    "rokuLink": "https://therokuchannel.roku.com/details/fa1204cf208658109b5e91ee4952f6f6",
-    "device": "R",
-    "seasons": [
-      {
-        "season": "season: 1",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "4"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "10"
-          },
-          {
-            "episodeNumber": "11"
-          },
-          {
-            "episodeNumber": "12"
-          },
-          {
-            "episodeNumber": "13"
-          },
-          {
-            "episodeNumber": "14"
-          },
-          {
-            "episodeNumber": "15"
-          },
-          {
-            "episodeNumber": "16"
-          },
-          {
-            "episodeNumber": "17"
-          },
-          {
-            "episodeNumber": "18"
-          },
-          {
-            "episodeNumber": "19"
-          },
-          {
-            "episodeNumber": "20"
-          }
-        ]
-      },
-      {
-        "season": "season: 2",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "4"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "10"
-          },
-          {
-            "episodeNumber": "11"
-          },
-          {
-            "episodeNumber": "12"
-          },
-          {
-            "episodeNumber": "13"
-          },
-          {
-            "episodeNumber": "14"
-          },
-          {
-            "episodeNumber": "15"
-          },
-          {
-            "episodeNumber": "16"
-          },
-          {
-            "episodeNumber": "17"
-          },
-          {
-            "episodeNumber": "18"
-          },
-          {
-            "episodeNumber": "19"
-          },
-          {
-            "episodeNumber": "20"
-          }
-        ]
-      },
-      {
-        "season": "season: 3",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "4"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "10"
-          },
-          {
-            "episodeNumber": "11"
-          },
-          {
-            "episodeNumber": "12"
-          },
-          {
-            "episodeNumber": "13"
-          },
-          {
-            "episodeNumber": "15"
-          },
-          {
-            "episodeNumber": "16"
-          },
-          {
-            "episodeNumber": "17"
-          },
-          {
-            "episodeNumber": "18"
-          },
-          {
-            "episodeNumber": "19"
-          },
-          {
-            "episodeNumber": "20"
-          }
-        ]
-      },
-      {
-        "season": "season: 4",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "4"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "10"
-          },
-          {
-            "episodeNumber": "11"
-          },
-          {
-            "episodeNumber": "12"
-          },
-          {
-            "episodeNumber": "13"
-          },
-          {
-            "episodeNumber": "14"
-          },
-          {
-            "episodeNumber": "15"
-          },
-          {
-            "episodeNumber": "16"
-          },
-          {
-            "episodeNumber": "17"
-          },
-          {
-            "episodeNumber": "18"
-          },
-          {
-            "episodeNumber": "19"
-          },
-          {
-            "episodeNumber": "20"
-          }
-        ]
-      },
-      {
-        "season": "season: 5",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "4"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "10"
-          },
-          {
-            "episodeNumber": "11"
-          },
-          {
-            "episodeNumber": "12"
-          },
-          {
-            "episodeNumber": "13"
-          },
-          {
-            "episodeNumber": "14"
-          },
-          {
-            "episodeNumber": "16"
-          },
-          {
-            "episodeNumber": "17"
-          },
-          {
-            "episodeNumber": "18"
-          },
-          {
-            "episodeNumber": "19"
-          },
-          {
-            "episodeNumber": "20"
-          },
-          {
-            "episodeNumber": "21"
-          }
-        ]
-      },
-      {
-        "season": "season: 6",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "10"
-          },
-          {
-            "episodeNumber": "11"
-          },
-          {
-            "episodeNumber": "12"
-          },
-          {
-            "episodeNumber": "13"
-          },
-          {
-            "episodeNumber": "14"
-          },
-          {
-            "episodeNumber": "15"
-          },
-          {
-            "episodeNumber": "16"
-          },
-          {
-            "episodeNumber": "17"
-          },
-          {
-            "episodeNumber": "18"
-          },
-          {
-            "episodeNumber": "19"
-          },
-          {
-            "episodeNumber": "20"
-          },
-          {
-            "episodeNumber": "21"
-          },
-          {
-            "episodeNumber": "22"
-          },
-          {
-            "episodeNumber": "23"
-          },
-          {
-            "episodeNumber": "24"
-          },
-          {
-            "episodeNumber": "26"
-          }
-        ]
-      },
-      {
-        "season": "season: 7",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "4"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "10"
-          },
-          {
-            "episodeNumber": "11"
-          },
-          {
-            "episodeNumber": "12"
-          },
-          {
-            "episodeNumber": "13"
-          },
-          {
-            "episodeNumber": "14"
-          },
-          {
-            "episodeNumber": "15"
-          },
-          {
-            "episodeNumber": "16"
-          },
-          {
-            "episodeNumber": "17"
-          },
-          {
-            "episodeNumber": "18"
-          },
-          {
-            "episodeNumber": "19"
-          },
-          {
-            "episodeNumber": "20"
-          },
-          {
-            "episodeNumber": "21"
-          },
-          {
-            "episodeNumber": "24"
-          },
-          {
-            "episodeNumber": "25"
-          }
-        ]
-      },
-      {
-        "season": "season: 8",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "4"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "10"
-          },
-          {
-            "episodeNumber": "11"
-          },
-          {
-            "episodeNumber": "12"
-          },
-          {
-            "episodeNumber": "13"
-          },
-          {
-            "episodeNumber": "14"
-          },
-          {
-            "episodeNumber": "15"
-          },
-          {
-            "episodeNumber": "16"
-          },
-          {
-            "episodeNumber": "17"
-          },
-          {
-            "episodeNumber": "18"
-          },
-          {
-            "episodeNumber": "19"
-          },
-          {
-            "episodeNumber": "20"
-          },
-          {
-            "episodeNumber": "21"
-          },
-          {
-            "episodeNumber": "22"
-          },
-          {
-            "episodeNumber": "23"
-          },
-          {
-            "episodeNumber": "24"
-          },
-          {
-            "episodeNumber": "25"
-          },
-          {
-            "episodeNumber": "26"
-          }
-        ]
-      },
-      {
-        "season": "season: 9",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "4"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "10"
-          },
-          {
-            "episodeNumber": "11"
-          },
-          {
-            "episodeNumber": "13"
-          },
-          {
-            "episodeNumber": "14"
-          },
-          {
-            "episodeNumber": "15"
-          },
-          {
-            "episodeNumber": "16"
-          },
-          {
-            "episodeNumber": "17"
-          },
-          {
-            "episodeNumber": "18"
-          },
-          {
-            "episodeNumber": "19"
-          },
-          {
-            "episodeNumber": "20"
-          },
-          {
-            "episodeNumber": "21"
-          },
-          {
-            "episodeNumber": "22"
-          },
-          {
-            "episodeNumber": "23"
-          },
-          {
-            "episodeNumber": "24"
-          },
-          {
-            "episodeNumber": "25"
-          },
-          {
-            "episodeNumber": "26"
-          }
-        ]
-      },
-      {
-        "season": "season: 10",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "4"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "10"
-          },
-          {
-            "episodeNumber": "11"
-          }
-        ]
-      },
-      {
-        "season": "season: 11",
-        "episodes": [
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "4"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "10"
-          },
-          {
-            "episodeNumber": "11"
-          },
-          {
-            "episodeNumber": "12"
-          },
-          {
-            "episodeNumber": "13"
-          },
-          {
-            "episodeNumber": "14"
-          },
-          {
-            "episodeNumber": "15"
-          },
-          {
-            "episodeNumber": "16"
-          },
-          {
-            "episodeNumber": "17"
-          },
-          {
-            "episodeNumber": "18"
-          },
-          {
-            "episodeNumber": "19"
-          },
-          {
-            "episodeNumber": "20"
-          },
-          {
-            "episodeNumber": "21"
-          },
-          {
-            "episodeNumber": "22"
-          },
-          {
-            "episodeNumber": "23"
-          },
-          {
-            "episodeNumber": "24"
-          },
-          {
-            "episodeNumber": "25"
-          },
-          {
-            "episodeNumber": "26"
-          }
-        ]
-      },
-      {
-        "season": "season: 12",
-        "episodes": [
-          {
-            "episodeNumber": "0"
-          },
-          {
-            "episodeNumber": "1"
-          },
-          {
-            "episodeNumber": "2"
-          },
-          {
-            "episodeNumber": "3"
-          },
-          {
-            "episodeNumber": "5"
-          },
-          {
-            "episodeNumber": "6"
-          },
-          {
-            "episodeNumber": "7"
-          },
-          {
-            "episodeNumber": "8"
-          },
-          {
-            "episodeNumber": "9"
-          },
-          {
-            "episodeNumber": "11"
-          },
-          {
-            "episodeNumber": "12"
-          },
-          {
-            "episodeNumber": "13"
-          },
-          {
-            "episodeNumber": "14"
-          },
-          {
-            "episodeNumber": "15"
-          },
-          {
-            "episodeNumber": "16"
-          },
-          {
-            "episodeNumber": "17"
-          },
-          {
-            "episodeNumber": "18"
-          },
-          {
-            "episodeNumber": "21"
-          },
-          {
-            "episodeNumber": "22"
-          },
-          {
-            "episodeNumber": "24"
-          },
-          {
-            "episodeNumber": "25"
-          },
-          {
-            "episodeNumber": "26"
-          },
-          {
-            "episodeNumber": "27"
-          },
-          {
-            "episodeNumber": "29"
-          },
-          {
-            "episodeNumber": "30"
-          },
-          {
-            "episodeNumber": "31"
-          }
-        ]
-      },
-      {
-        "season": "season: 2015",
-        "episodes": [
-          {
-            "episodeNumber": "12"
-          }
-        ]
-      },
-      {
-        "season": "season: 2019",
-        "episodes": [
-          {
-            "episodeNumber": "20"
-          },
-          {
-            "episodeNumber": "28"
           }
         ]
       }
@@ -1235,678 +741,2633 @@
     "device": "R",
     "seasons": [
       {
-        "season": "season: 1",
+        "title": "Season 1",
+        "seasonNumber": "1",
         "episodes": [
           {
+            "episodeTitle": "Pups and the Kitty-tastrophe; Pups Save a Train",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "Pup Pup Boogie; Pups in a Fog",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Pups Save the Sea Turtles; Pup and the Very Big Baby",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "Pups Save the Circus; Pup a Doodle Do",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "Pup Pup Goose; Pup Pup and Away",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "Pups Pit Crew; Pups Fight Fire",
             "episodeNumber": "6"
           },
           {
+            "episodeTitle": "Pups Save the Bunnies; Puptacular",
             "episodeNumber": "7"
           },
           {
+            "episodeTitle": "Pups Save the Bay; Pups Save a Goodway",
             "episodeNumber": "8"
           },
           {
+            "episodeTitle": "Pups Get a Rubble; Pups Save a Walrus",
             "episodeNumber": "9"
           },
           {
+            "episodeTitle": "Pups Save the Treats; Pups Get a Lift",
             "episodeNumber": "10"
           },
           {
+            "episodeTitle": "Pups Save a Hoedown; Pups Save Alex",
             "episodeNumber": "11"
           },
           {
+            "episodeTitle": "Pups and the Ghost Pirate",
             "episodeNumber": "12"
           },
           {
+            "episodeTitle": "Pups Save a School Day; Pups Turn on the Lights",
             "episodeNumber": "13"
           },
           {
+            "episodeTitle": "Pups Save a Pool Day; Circus Pup-Formers",
             "episodeNumber": "14"
           },
           {
+            "episodeTitle": "Pups Make a Splash; Pups Fall Festival",
             "episodeNumber": "15"
           },
           {
+            "episodeTitle": "Pups Save Christmas",
             "episodeNumber": "16"
           },
           {
+            "episodeTitle": "Pups on Ice; Pups and the Snow Monster",
             "episodeNumber": "17"
           },
           {
+            "episodeTitle": "Pups Save a Super Pup; Pups Save Ryder's Robot",
             "episodeNumber": "18"
           },
           {
+            "episodeTitle": "Pups Go All Monkey; Pups Save a Hoot",
             "episodeNumber": "19"
           },
           {
+            "episodeTitle": "Pups Save a Bat; Pups Save a Toof",
             "episodeNumber": "20"
           },
           {
+            "episodeTitle": "Pups Save the Easter Egg Hunt",
             "episodeNumber": "21"
           },
           {
+            "episodeTitle": "Pups and the Lighthouse Boogie; Pups Save Ryder",
             "episodeNumber": "22"
           },
           {
+            "episodeTitle": "Pups Great Race; Pups Take the Cake",
             "episodeNumber": "23"
           },
           {
+            "episodeTitle": "Pups and the Beanstalk; Pups Save the Turbots",
             "episodeNumber": "24"
           },
           {
+            "episodeTitle": "Pups Save the Camping Trip; Pups and the Trouble with Turtles",
             "episodeNumber": "25"
           },
           {
+            "episodeTitle": "Pups and the Pirate Treasure",
             "episodeNumber": "26"
           }
         ]
       },
       {
-        "season": "season: 2",
+        "title": "Season 2",
+        "seasonNumber": "2",
         "episodes": [
           {
+            "episodeTitle": "Pups Save the Space Alien; Pups Save a Flying Frog",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "Pups Save the Penguins; Pups Save a Dolphin Pup",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Pups Save Jake; Pups Save the Parade",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "Pups Save the Diving Bell; Pups Save the Beavers",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "Pups Save a Ghost; Pups Save a Show",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "Pups Save an Ace; Pups Save a Wedding",
             "episodeNumber": "6"
           },
           {
+            "episodeTitle": "The New Pup",
             "episodeNumber": "7"
           },
           {
+            "episodeTitle": "Pups and the Big Freeze; Pups Save a Basketball Game",
             "episodeNumber": "9"
           },
           {
+            "episodeTitle": "Pups Save a Talent Show; Pups Save the Corn Roast",
             "episodeNumber": "10"
           },
           {
+            "episodeTitle": "Pups Leave Marshall Home Alone; Pups Save the Deer",
             "episodeNumber": "11"
           },
           {
+            "episodeTitle": "Pups Save a Friend; Pups Save a Stowaway",
             "episodeNumber": "12"
           },
           {
+            "episodeTitle": "Pups Save the Parrot; Pups Save the Queen Bee",
             "episodeNumber": "13"
           },
           {
+            "episodeTitle": "Pups' Adventures in Babysitting; Pups Save the Fireworks",
             "episodeNumber": "14"
           },
           {
+            "episodeTitle": "Pups Save an Elephant Family; Pups and the Mischievous Kittens",
             "episodeNumber": "15"
           },
           {
+            "episodeTitle": "Pups Save a Mer-Pup",
             "episodeNumber": "16"
           },
           {
+            "episodeTitle": "Pups Save a Sniffle; Pups and the Ghost Cabin",
             "episodeNumber": "17"
           },
           {
+            "episodeTitle": "Pups Save an Adventure; Pups Save a Surprise",
             "episodeNumber": "18"
           },
           {
+            "episodeTitle": "Pups Save the Mayor's Race; Pups Save an Outlaw's Loot",
             "episodeNumber": "19"
           },
           {
+            "episodeTitle": "Pups Save Walinda; Pups Save a Big Bone",
             "episodeNumber": "20"
           },
           {
+            "episodeTitle": "Pups Save a Floundering Francois; Pups Save the Pop-Up Penguins",
             "episodeNumber": "21"
           },
           {
+            "episodeTitle": "Pups Save a Pizza; Pups Save Skye",
             "episodeNumber": "22"
           },
           {
+            "episodeTitle": "Pups Save the Woof and Roll Show; Pups Save an Eagle",
             "episodeNumber": "23"
           },
           {
+            "episodeTitle": "Pups Save a Snowboard Competition",
             "episodeNumber": "23"
           },
           {
+            "episodeTitle": "Pups Bark With Dinosaurs",
             "episodeNumber": "24"
           },
           {
+            "episodeTitle": "Pups Save a Snowboard Competition; Pups Save a Chicken of the Sea",
             "episodeNumber": "26"
           }
         ]
       },
       {
-        "season": "season: 3",
+        "title": "Season 3",
+        "seasonNumber": "3",
         "episodes": [
           {
+            "episodeTitle": "Pups Find a Genie; Pups Save a Tightrope Walker",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "Pups Save the Soccer Game; Pups Save a Lucky Collar",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Pups Take It to the Sky",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "Pups Save Friendship Day",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "Pups Save Alex's Mini-Patrol; Pups Save a Lost Tooth",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "Pups Save Daring Danny X; Pups in a Fix",
             "episodeNumber": "6"
           },
           {
+            "episodeTitle": "Pups Save a Dragon; Pups Save the Three Little Pigs",
             "episodeNumber": "7"
           },
           {
+            "episodeTitle": "Pups Save a Goldrush; Pups Save the Paw Patroller",
             "episodeNumber": "8"
           },
           {
+            "episodeTitle": "Pups Save Apollo; Pups Save the Hippos",
             "episodeNumber": "9"
           },
           {
+            "episodeTitle": "Pups Save the Polar Bears; A Pup in Sheep's Clothing",
             "episodeNumber": "10"
           },
           {
+            "episodeTitle": "Pups Save a School Bus; Pups Save the Songbirds",
             "episodeNumber": "11"
           },
           {
+            "episodeTitle": "Pups Save Old Trusty; Pups Save a Pony",
             "episodeNumber": "12"
           },
           {
+            "episodeTitle": "All-Star Pups!; Pups Save Sports Day",
             "episodeNumber": "13"
           },
           {
+            "episodeTitle": "Tracker Joins the Pups!",
             "episodeNumber": "14"
           },
           {
+            "episodeTitle": "Parroting Pups; Merpups Save the Turbots",
             "episodeNumber": "15"
           },
           {
+            "episodeTitle": "Pups Save a Robosaurus; Pups Save a Film Festival",
             "episodeNumber": "16"
           },
           {
+            "episodeTitle": "Pups Save a Stinky Flower; Pups Save a Monkey-Naut",
             "episodeNumber": "17"
           },
           {
+            "episodeTitle": "Pups Bear-ly Save Danny; Pups Save the Mayor's Tulips",
             "episodeNumber": "18"
           },
           {
+            "episodeTitle": "Pups Get Growing; Pups Save a Space Toy",
             "episodeNumber": "19"
           },
           {
+            "episodeTitle": "Pups in a Jam; Pups Save a Windsurfing Pig",
             "episodeNumber": "20"
           },
           {
+            "episodeTitle": "Pups Save the Gliding Turbots; Pups Save a Plane",
             "episodeNumber": "21"
           },
           {
+            "episodeTitle": "Pups Get Skunked; Pups and a Whale of a Tale",
             "episodeNumber": "22"
           },
           {
+            "episodeTitle": "The Pups Winter Wonder Show",
             "episodeNumber": "23"
           },
           {
+            "episodeTitle": "Pups Save a Giant Plant; Pups Get Stuck",
             "episodeNumber": "24"
           },
           {
+            "episodeTitle": "Pups Raise the PAW Patroller; Pups Save the Crows",
             "episodeNumber": "25"
           },
           {
+            "episodeTitle": "Pups Save Their Floating Friends; Pups Save a Satellite",
             "episodeNumber": "26"
           }
         ]
       },
       {
-        "season": "season: 4",
+        "title": "Season 4",
+        "seasonNumber": "4",
         "episodes": [
           {
+            "episodeTitle": "Pups Save a Blimp; Pups Save a Chili Cook-Off",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "Pups Save a Teeny Penguin; Pups Save the Cat Show",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Mission PAW: Quest for the Crown",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "Pups Save a Playful Dragon; Pups Save the Critters",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "Mission PAW: Royally Spooked!; Pups Save Monkey-Dinger",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "Pups Save Jake's Cake; Pups Save a Wild Ride",
             "episodeNumber": "6"
           },
           {
+            "episodeTitle": "Pups Save a Sleepover; Pups Save the Carnival",
             "episodeNumber": "7"
           },
           {
+            "episodeTitle": "Pups Save the Flying Food; Pups Save a Ferris Wheel",
             "episodeNumber": "8"
           },
           {
+            "episodeTitle": "Mission PAW: Pups Save the Royal Throne",
             "episodeNumber": "9"
           },
           {
+            "episodeTitle": "Sea Patrol: Pups Save a Baby Octopus",
             "episodeNumber": "10"
           },
           {
+            "episodeTitle": "Pups Save the Runaway Kitties; Pups Save Tiny Marshall",
             "episodeNumber": "11"
           },
           {
+            "episodeTitle": "Pups Chill Out; Pups Save Farmer Alex",
             "episodeNumber": "12"
           },
           {
+            "episodeTitle": "Pups Save Big Hairy; Pups Save a Flying Kitty",
             "episodeNumber": "13"
           },
           {
+            "episodeTitle": "Sea Patrol: Pups Save a Shark; Sea Patrol: Pups Save the Pier",
             "episodeNumber": "14"
           },
           {
+            "episodeTitle": "Pups Save a Space Rock; Pups Save a Good Mayor",
             "episodeNumber": "15"
           },
           {
+            "episodeTitle": "Pups Save a City Kitty; Pups Save a Cloud Surfer",
             "episodeNumber": "16"
           },
           {
+            "episodeTitle": "Pups Save a Sleepwalking Bear; Pups Save Dude Ranch Danny",
             "episodeNumber": "17"
           },
           {
+            "episodeTitle": "Sea Patrol: Pirate Pups to the Rescue",
             "episodeNumber": "18"
           },
           {
+            "episodeTitle": "Pups Save the Mail; Pups Save a Frog Mayor",
             "episodeNumber": "19"
           },
           {
+            "episodeTitle": "Sea Patrol: Pups Save a Frozen Flounder; Sea Patrol: Pups Save a Narwhal",
             "episodeNumber": "20"
           },
           {
+            "episodeTitle": "Pups Save the Runaway Turtles; Pups Save the Shivering Sheep",
             "episodeNumber": "21"
           },
           {
+            "episodeTitle": "Sea Patrol: Pups Save Puplantis",
             "episodeNumber": "23"
           },
           {
+            "episodeTitle": "Pups Save Francois the Penguin; Pups Save Daring Danny's Hippo",
             "episodeNumber": "24"
           },
           {
+            "episodeTitle": "Pups Save Baby Humdinger; Pups Save a Pinata",
             "episodeNumber": "26"
           }
         ]
       },
       {
-        "season": "season: 5",
+        "title": "Season 5",
+        "seasonNumber": "5",
         "episodes": [
           {
+            "episodeTitle": "Pups Save the Kitty Rescue Crew; Pups Save an Ostrich",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "Pups Save Big Paw; Pups Save a Hum-Mover",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Sea Patrol: Pups Save the Sunken Sloop; Sea Patrol: Pups Save a Wiggly Whale",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "Pups Save Luke Stars; Pups Save Chicken Day",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "Pups Save a High Flying Skye; Pups Go for the Gold",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "Pups Save an Extreme Lunch; Pups Save a Cat Burglar",
             "episodeNumber": "6"
           },
           {
+            "episodeTitle": "Sea Patrol: Pups Save the Flying Diving Bell; Sea Patrol: Pups Save a Soggy Farm",
             "episodeNumber": "7"
           },
           {
+            "episodeTitle": "Pups Save the Bookmobile; Pups Save Heady Humdinger",
             "episodeNumber": "8"
           },
           {
+            "episodeTitle": "Pups Save the Butterflies; Pups Save an Underground Chicken",
             "episodeNumber": "9"
           },
           {
+            "episodeTitle": "Sea Patrol: Pups Save the Pirated Sea Patroller",
             "episodeNumber": "10"
           },
           {
+            "episodeTitle": "Ultimate Rescue: Pups Save the Royal Kitties",
             "episodeNumber": "11"
           },
           {
+            "episodeTitle": "Pups Save the PawPaws; Pups Save a Popped Top",
             "episodeNumber": "12"
           },
           {
+            "episodeTitle": "Pups Save the Snowshoeing Goodways; Pups Save a Duck Pond",
             "episodeNumber": "13"
           },
           {
+            "episodeTitle": "Sea Patrol: Pups Save Tilly Turbot; Pups Save an Upset Elephant",
             "episodeNumber": "14"
           },
           {
+            "episodeTitle": "Ultimate Rescue: Pups Save the Tigers",
             "episodeNumber": "15"
           },
           {
+            "episodeTitle": "Rocky Saves Himself; Pups and the Mystery of the Driverless Snowcat",
             "episodeNumber": "16"
           },
           {
+            "episodeTitle": "Ultimate Rescue: Pups Save the Movie Monster!",
             "episodeNumber": "17"
           },
           {
+            "episodeTitle": "Pups Save the Trick-or-Treaters; Pups Save an Out of Control Mini Patrol",
             "episodeNumber": "18"
           },
           {
+            "episodeTitle": "Pups and the Werepuppy!; Pups Save a Sleepwalking Mayor",
             "episodeNumber": "19"
           },
           {
+            "episodeTitle": "Mission PAW: Pups Save a Royal Concert; Mission PAW: Pups Save the Princess' Pals",
             "episodeNumber": "20"
           },
           {
+            "episodeTitle": "Pups Save a Cuckoo Clock; Pups Save Ms. Marjorie's House",
             "episodeNumber": "21"
           },
           {
+            "episodeTitle": "Pups Rescue Thanksgiving; Pups Save a Windy Bay",
             "episodeNumber": "22"
           },
           {
+            "episodeTitle": "Ultimate Rescue: Pups Save a Swamp Creature; Ultimate Rescue: Pups and the Hidden Golden Bones",
             "episodeNumber": "23"
           },
           {
+            "episodeTitle": "Pups Save a Frozen Camp-Out; Pups Save the Fizzy Pickles",
             "episodeNumber": "24"
           },
           {
+            "episodeTitle": "Pups Save a Pluck-O-Matic; Pups Save a Mascot",
             "episodeNumber": "25"
           },
           {
+            "episodeTitle": "Ultimate Rescue: Pups Save a Runaway Stargazer",
             "episodeNumber": "26"
           },
           {
+            "episodeTitle": "Pups Save Ace's Birthday Surprise; Pups Save a Tower of Pizza",
             "episodeNumber": "27"
           }
         ]
       },
       {
-        "season": "season: 6",
+        "title": "Season 6",
+        "seasonNumber": "6",
         "episodes": [
           {
+            "episodeTitle": "Pups Save the Jungle Penguins; Pups Save a Freighter",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "Ultimate Rescue: Pups Stop a Meltdown; Ultimate Rescue: Pups and the Mystery of the Missing Cellphones",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Pups Save a Melon Festival; Pups Save a Cow",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "Ultimate Rescue: Pups Save the Mountain Climbers; Ultimate Rescue: Pup Save Captain Gordy",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "Pups Save the Honey; Pups Save Mayor Goodway's Purse",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "Pups and the Stinky Bubble Trouble; Pups Save the Baby Ostriches",
             "episodeNumber": "6"
           },
           {
+            "episodeTitle": "Pups Save Gustavo's Guitar; Pups Save the Yoga Goats",
             "episodeNumber": "7"
           },
           {
+            "episodeTitle": "Mighty Pups, Super Paws: When Super Kitties Attack",
             "episodeNumber": "8"
           },
           {
+            "episodeTitle": "Mighty Pups, Super Paws: Pups Meet the Mighty Twins",
             "episodeNumber": "9"
           },
           {
+            "episodeTitle": "Mighty Pups, Super Paws: Pups Save a Giant Chicken; Mighty Pups, Super Paws: Pups Stop Harold's Deep Freeze",
             "episodeNumber": "10"
           },
           {
+            "episodeTitle": "Pups Save Bedtime; Pups Save Chickaletta's Egg",
             "episodeNumber": "11"
           },
           {
+            "episodeTitle": "Pups Save a Manatee; Pups Save Breakfast",
             "episodeNumber": "12"
           },
           {
+            "episodeTitle": "Pups Save the Land Pirates; Pups Save the Birdwatching Turbots",
             "episodeNumber": "13"
           },
           {
+            "episodeTitle": "Pups Save a Bat Family; Pups Save a Mud Monster",
             "episodeNumber": "14"
           },
           {
+            "episodeTitle": "Mighty Pups, Super Paws: Pups and the Big Twin Trick; Mighty Pups, Super Paws: Pups Save the Mega Mayor",
             "episodeNumber": "15"
           },
           {
+            "episodeTitle": "Pups Save a Freaky Pup-Day; Pups Save a Runaway Mayor",
             "episodeNumber": "16"
           },
           {
+            "episodeTitle": "Pups Save the Bears; Pups Save a Farmerless Farm",
             "episodeNumber": "17"
           },
           {
+            "episodeTitle": "Pups Save the Squirrels; Pups Save a Roo",
             "episodeNumber": "18"
           },
           {
+            "episodeTitle": "Pups Save the Balloon Pups; Pups Save the Spider Spies",
             "episodeNumber": "19"
           },
           {
+            "episodeTitle": "Pups Save a White Wolf; Pups Save a Wrong-Way Explorer",
             "episodeNumber": "20"
           },
           {
+            "episodeTitle": "Mighty Pups, Charged Up: Mighty Pups Versus the Copycat",
             "episodeNumber": "21"
           },
           {
+            "episodeTitle": "Pups Save a Humsquatch; Pups Save a Far Flung Flying Disc",
             "episodeNumber": "22"
           },
           {
+            "episodeTitle": "Mighty Pups, Charged Up: Pups Stop a Big Bad Bot; Mighty Pups, Charged Up: Mighty Pups Versus the Dome",
             "episodeNumber": "23"
           },
           {
+            "episodeTitle": "Pups Rescue a Rescuer; Pups Save the Phantom of Frog Pond",
             "episodeNumber": "24"
           },
           {
+            "episodeTitle": "Pups Save a Tour Bus; Pups Save Midnight at the Museum",
             "episodeNumber": "25"
           }
         ]
       },
       {
-        "season": "season: 7",
+        "title": "Season 7",
+        "seasonNumber": "7",
         "episodes": [
           {
+            "episodeTitle": "Mighty Pups Charged Up: Pups Stop a Humdinger Horde; Mighty Pups Charged Up: Pups Save a Mighty Lighthouse",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "Mighty Pups Charged Up: Pups vs. Three Super Baddies",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Pups Save an Antarctic Martian; Pups Save the Maze Explorers",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "Pups Save Election Day; Pups Save the Bubble Monkeys",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "Pups Save a Waiter-Bot; Pups Stop a Pie-Clone",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "Dino Rescue: Pups and the Lost Dino Eggs",
             "episodeNumber": "6"
           },
           {
+            "episodeTitle": "Pups Save a Big Bad Bird Crew; Pups Save a Soapbox Derby",
             "episodeNumber": "7"
           },
           {
+            "episodeTitle": "Dino Rescue: Pups Save a Pterodactyl; Dino Rescue: Pups and the Big Rumble",
             "episodeNumber": "8"
           },
           {
+            "episodeTitle": "Pups Save the Skydivers; Pups Save the Cupcakes",
             "episodeNumber": "9"
           },
           {
+            "episodeTitle": "Dino Rescue: Pups Save a Hum-Dino",
             "episodeNumber": "10"
           },
           {
+            "episodeTitle": "Ultimate Rescue: Pups Save the Pupmobiles",
             "episodeNumber": "11"
           },
           {
+            "episodeTitle": "Pups Save a Lost Gold Miner; Pups Save Uncle Otis From His Cabin",
             "episodeNumber": "12"
           },
           {
+            "episodeTitle": "Pups Save a Rocket Roller Skater; Pups Save Ryder's Surprise",
             "episodeNumber": "13"
           },
           {
+            "episodeTitle": "Pups Save the Chalk Art; Pups Save the Hot Potato",
             "episodeNumber": "14"
           },
           {
+            "episodeTitle": "Dino Rescue: Pups Save a Sore Dino; Dino Rescue: Pups Save the Triceratops Tag-Alongs",
             "episodeNumber": "15"
           },
           {
+            "episodeTitle": "Pups Save a Bah Humdinger!",
             "episodeNumber": "16"
           },
           {
+            "episodeTitle": "Pups Save the Marooned Mayors; Pups Save the Game Show",
             "episodeNumber": "17"
           },
           {
+            "episodeTitle": "Moto Pups: Pups vs. the Ruff-Ruff Pack",
             "episodeNumber": "18"
           },
           {
+            "episodeTitle": "Pups Save a Trash-Dinger; Pups Save the Royal Armor",
             "episodeNumber": "19"
           },
           {
+            "episodeTitle": "Moto Pups: Pups Save the Donuts; Moto Pups: Pups Save the Kitties",
             "episodeNumber": "20"
           },
           {
+            "episodeTitle": "Pups Save the Whale Pod; Ultimate Rescue: Pups Stop the Junk-Monster",
             "episodeNumber": "21"
           },
           {
+            "episodeTitle": "Pups Save Queen Cluck-Cluck; Pups Save a Desert Flounder",
             "episodeNumber": "22"
           },
           {
+            "episodeTitle": "Moto Pups: Pups Save a Moto Mayor",
             "episodeNumber": "23"
           },
           {
+            "episodeTitle": "Pups Save a Tuskcracker; Pups Save a Class Pet",
             "episodeNumber": "24"
           },
           {
+            "episodeTitle": "Pups Save Little Hairy; Pups Save a Kooky Climber",
             "episodeNumber": "25"
           },
           {
+            "episodeTitle": "Moto Pup: Pups Save a Sneezy Chase; Moto Pups: Rescue at Twisty Top Mesa",
             "episodeNumber": "26"
           }
         ]
       },
       {
-        "season": "season: 8",
+        "title": "Season 8",
+        "seasonNumber": "8",
         "episodes": [
           {
+            "episodeTitle": "Pups Save a Sweet Mayor; Pups Save a Magic Trick",
             "episodeNumber": "1"
           },
           {
+            "episodeTitle": "Pups Save a Runaway Rooster; Pups Save a Snowbound Cow",
             "episodeNumber": "2"
           },
           {
+            "episodeTitle": "Pups Save a Rubble-Double; Pups Save a Clown",
             "episodeNumber": "3"
           },
           {
+            "episodeTitle": "Sea Patrol: Pups Save a Water Walker; Sea Patrol: Pups Save a Windsurfer",
             "episodeNumber": "4"
           },
           {
+            "episodeTitle": "Pups Save the Hiding Elephants; Pups Save a Yodeler",
             "episodeNumber": "5"
           },
           {
+            "episodeTitle": "Pups Save the Treasure Cruise; Pups Save Rocket Ryder",
             "episodeNumber": "6"
           },
           {
+            "episodeTitle": "Pups Save the Mustache; Pups Save the Funhouse",
             "episodeNumber": "7"
           },
           {
+            "episodeTitle": "Pups vs. a Neon Humdinger; Pups Save a Royal Painting",
             "episodeNumber": "8"
           },
           {
+            "episodeTitle": "Pups Save the Dizzy Dust Express; Pups Save the Treetop Trekkers",
             "episodeNumber": "9"
           },
           {
+            "episodeTitle": "Pups and Katie Stop the Barking Kitty Crew; Pups Save the Glasses",
             "episodeNumber": "10"
           },
           {
+            "episodeTitle": "Pups Stop the Cheetah",
             "episodeNumber": "11"
           },
           {
+            "episodeTitle": "Pups Save a Show Jumper; Pups Save the Salmon",
             "episodeNumber": "12"
           },
           {
+            "episodeTitle": "Pups Save a Chicken Tulip; Pups Stop an Xtreme Shark",
             "episodeNumber": "13"
           },
           {
+            "episodeTitle": "Pups vs. Ouchy Paws; Pups Save a Glow-in-the-Dark Party",
             "episodeNumber": "14"
           },
           {
+            "episodeTitle": "Pups Stop a Super Shaker; Pups Save a Flying Farmhouse",
             "episodeNumber": "15"
           },
           {
+            "episodeTitle": "Rescue Knights: Quest for the Dragon's Tooth",
             "episodeNumber": "16"
           },
           {
+            "episodeTitle": "Pups Save a Box Fort; Pups Save Travelin' Travis From Really Big Bill",
             "episodeNumber": "17"
           },
           {
+            "episodeTitle": "Rescue Knights: Pups Save a Dozing Dragon",
             "episodeNumber": "18"
           },
           {
+            "episodeTitle": "Rescue Knights Break the Ice; Pups Save Excalibark",
             "episodeNumber": "19"
           },
           {
+            "episodeTitle": "Rescue Knights: Pups Save a Tournament; Rescue Knights: Pups Save the Baby Dragons",
             "episodeNumber": "20"
           },
           {
+            "episodeTitle": "Dancing With Luke Stars!; Pups Save a Mischievous Octopus",
             "episodeNumber": "21"
           },
           {
+            "episodeTitle": "Pups Save the Kitties and the Kiddies; Pups Save the Greenhouse",
             "episodeNumber": "22"
           },
           {
+            "episodeTitle": "Pups Save the Floating Goodways; Pups Save the Portable Pet Wash",
             "episodeNumber": "23"
           },
           {
+            "episodeTitle": "Pups Save a Lonesome Walrus; Pups Save the Hummy Gummies",
             "episodeNumber": "24"
           },
           {
+            "episodeTitle": "Rubble and Wild in a Yarn of a Tail; Skye and Rory Flip It; Marshall and Leo Save the Ferris Wheel Passengers; Everest and Shade Save a Mountain Goat",
+            "episodeNumber": "25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "contentId": "fa1204cf208658109b5e91ee4952f6f6",
+    "title": "SpongeBob SquarePants",
+    "description": "Who lives in a pineapple under the sea? SpongeBob SquarePants! Follow the adventures of this enthusiastic sponge whose good intentions inevitably lead him and his friends into trouble.",
+    "releaseDate": "1999-2023",
+    "directors": "Vincent Waller",
+    "sourceId": 1237,
+    "rokuLink": "https://therokuchannel.roku.com/details/fa1204cf208658109b5e91ee4952f6f6",
+    "device": "R",
+    "seasons": [
+      {
+        "title": "Season 1",
+        "seasonNumber": "1",
+        "episodes": [
+          {
+            "episodeTitle": "Help Wanted; Reef Blowers; Tea at the Treedome",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Bubblestand; Ripped Pants",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Jellyfishing; Plankton",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Naughty Nautical Neighbors; Boating School",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Pizza Delivery; Home Sweet Pineapple",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Mermaid Man and Barnacle Boy; Pickles",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Hall Monitor; Jellyfish Jam",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Sandy's Rocket; Squeaky Boots",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Nature Pants; Opposite Day",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Culture Shock; F.U.N.",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "MuscleBob BuffPants; Squidward, the Unfriendly Ghost",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "The Chaperone; Employee of the Month",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Scaredy Pants; I Was a Teenage Gary",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "SB-129; Karate Choppers",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Sleepy Time; Suds",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Valentine's Day; The Paper",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "Arrgh!; Rock Bottom",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "Texas; Walking Small",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Fools in April; Neptune's Spatula",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "Hooky; Mermaid Man and Barnacle Boy II",
+            "episodeNumber": "20"
+          }
+        ]
+      },
+      {
+        "title": "Season 2",
+        "seasonNumber": "2",
+        "episodes": [
+          {
+            "episodeTitle": "Something Smells; Bossy Boots",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Your Shoe's Untied; Squid's Day Off",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Big Pink Loser; Bubble Buddy",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Mermaid Man and Barnacle Boy III; Squirrel Jokes",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Patchy the Pirate Presents the SpongeBob SquarePants Christmas Special",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Dying for Pie; Imitation Krabs",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Wormy; Patty Hype",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Survival of the Idiots; Dumped",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Grandma's Kisses; Squidville",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Shanghaied; Gary Takes a Bath",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "No Free Rides; I'm Your Biggest Fanatic",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Pressure; The Smoking Peanut",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Pre-Hibernation Week; Life of Crime",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "The Secret Box; Band Geeks",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Sailor Mouth; Artist Unknown",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "The Fry Cook Games; Jellyfish Hunter",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "Sandy, SpongeBob, and the Worm; Squid on Strike",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "Procrastination; I'm With Stupid",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Welcome to the Chum Bucket; Frankendoodle",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "The Graveyard Shift; Krusty Love",
+            "episodeNumber": "20"
+          }
+        ]
+      },
+      {
+        "title": "Season 3",
+        "seasonNumber": "3",
+        "episodes": [
+          {
+            "episodeTitle": "The Bully; Just One Bite",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Mermaid Man and Barnacle Boy IV; Doing Time",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "The Snowball Effect; One Krab's Trash",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "The Nasty Patty; The Idiot Box",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "As Seen on TV; Can You Spare a Dime",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "No Weenies Allowed; Squilliam Returns",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "The Algae's Always Greener; Spongeguard on Duty",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Krab Borg!; Rock-a-Bye Bivalve",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Wet Painters; Krusty Krab Training Video",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "SpongeBob's House Party",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Chocolate With Nuts; Superfriends",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Club SpongeBob; My Pretty Seahorse",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "New Student Starfish; Clams",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "The Sponge Who Could Fly",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Born Again Krabs; I Had an Accident",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "Missing Identity; Plankton's Army",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "SpongeBob B.C. (Before Comedy)",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Krabby Land; The Camping Episode",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "SpongeBob Meets the Strangler; Pranks a Lot",
+            "episodeNumber": "20"
+          }
+        ]
+      },
+      {
+        "title": "Season 4",
+        "seasonNumber": "4",
+        "episodes": [
+          {
+            "episodeTitle": "Fear of a Krabby Patty; Shell of a Man",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "The Lost Mattress; Krabs vs. Plankton",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Good Neighbors; Skill Crane",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Selling Out; Funny Pants",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Enemy In-Law; Mermaid Man & Barnacle Boy VI: The Motion Picture",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Patrick SmartPants; SquidBob TentaclePants",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Have You Seen This Snail?",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Dunces and Dragons",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Krusty Towers; Mrs. Puff, You're Fired",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Ghost Host; Chimps Ahoy",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Whale of a Birthday; Karate Island",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "All That Glitters; Wishing You Well",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "The New Leaf; Once Bitten",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Squidtastic Voyage; That's No Lady",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Bummer Vacation; Wigstuck",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "The Best Day Ever; The Gift of Gum",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "The Thing; Hocus Pocus",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "The Pink Purloiner; Squid Wood",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Driven to Tears; Rule of Dumb",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "Born to Be Wild; Best Frenemies",
+            "episodeNumber": "20"
+          }
+        ]
+      },
+      {
+        "title": "Season 5",
+        "seasonNumber": "5",
+        "episodes": [
+          {
+            "episodeTitle": "Friend or Foe",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Rise and Shine & Waiting; Fungus Among Us",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Spy Buddies; Boat Smarts; Good Ol' Whathisname",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "The Krusty Sponge; Sing a Song of Patrick",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "New Digs; Krabs a la Mode",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "To Love a Patty; Breath of a Fresh Squidward",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Roller Cowards; Bucket Sweet Bucket",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "The Original Fry Cook; Night Light",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Money Talks; SpongeBob vs. the Patty Gadget; Slimy Dancing",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "A Flea in Her Dome; Donut of Shame; The Krusty Plate",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Picture Day; Pat No Pay; Blackjack",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Blackened Sponge; Mermaid Man vs. SpongeBob",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Goo Goo Gas; Le Big Switch",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Atlantis SquarePantis",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "20,000 Patties Under the Sea; The Battle of Bikini Bottom",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "The Inmates of Summer; To Save a Squirrel",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "The Two Faces of Squidward; Spongehenge",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Banned in Bikini Bottom; Stanley S. SquarePants",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "The Pest of the West",
+            "episodeNumber": "20"
+          },
+          {
+            "episodeTitle": "What Ever Happened to SpongeBob",
+            "episodeNumber": "21"
+          }
+        ]
+      },
+      {
+        "title": "Season 6",
+        "seasonNumber": "6",
+        "episodes": [
+          {
+            "episodeTitle": "House Fancy; Krabby Road",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Not Normal; Gone",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Penny Foolish; Nautical Novice",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "The Splinter; Slide Whistle Stooges",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "No Nose Knows; Giant Squidward",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "A Life in a Day; Sun Bleached",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "The Patty Caper; Plankton's Regular",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Boating Buddies; The Krabby Kronicle",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Porous Pockets; Choir Boys",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Dear Vikings; Ditchin'",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Krusty Krushers; The Card",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "The Slumber Party; Grooming Gary",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Shuffle-Boarding; Professor Squidward",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Grandpappy the Pirate; Cephalopod Lodge",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Sand Castles in the Sand; Shell Shocked",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "Pets or Pests; Komputer Overload",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "SpongeBob SquarePants vs. The Big One",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Pineapple Fever; Chum Caverns",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "Squid's Visit; To SquarePants or Not to SquarePants",
+            "episodeNumber": "20"
+          },
+          {
+            "episodeTitle": "Gullible Pants; Overbooked",
+            "episodeNumber": "21"
+          },
+          {
+            "episodeTitle": "Chum Bucket Supreme; Single Cell Anniversary",
+            "episodeNumber": "22"
+          },
+          {
+            "episodeTitle": "No Hat for Pat; Toy Store of Doom",
+            "episodeNumber": "23"
+          },
+          {
+            "episodeTitle": "Truth or Square",
+            "episodeNumber": "24"
+          },
+          {
+            "episodeTitle": "The Clash of Triton",
+            "episodeNumber": "26"
+          }
+        ]
+      },
+      {
+        "title": "Season 7",
+        "seasonNumber": "7",
+        "episodes": [
+          {
+            "episodeTitle": "Tentacle Vision; I Heart Dancing",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Growth Spout; Stuck in the Wringer",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Someone's in the Kitchen With Sandy; The Inside Job",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "The Curse of Bikini Bottom; Squidward in Clarinetland",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Greasy Buffoons; Model Sponge",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Back to the Past; The Bad Guy Club for Villains",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "A Day Without Tears; Summer Job",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "One Coarse Meal; Gary in Love",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "The Play's the Thing; Rodeo Daze",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "SpongeBob's Last Stand",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Gramma's Secret Recipe; The Cent of Money",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "That Sinking Feeling; Karate Star",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Shellback Shenanigans; Hide and Then What Happens?",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Yours, Mine and Mine; Kracked Krabs",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Buried in Time; Enchanted Tiki Dreams",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "The Masterpiece; Whelk Attack",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "Krusty Dogs; The Wreck of the Mauna Loa",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Mystery With a Twistery",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "The Abrasive Side; Earworm",
+            "episodeNumber": "20"
+          },
+          {
+            "episodeTitle": "New Fish in Town; Love That Squid",
+            "episodeNumber": "21"
+          },
+          {
+            "episodeTitle": "You Don't Know Sponge; Tunnel of Glove",
+            "episodeNumber": "24"
+          },
+          {
+            "episodeTitle": "Big Sister Sam; Perfect Chemistry",
             "episodeNumber": "25"
           }
         ]
       },
       {
-        "season": "season: 2017",
+        "title": "Season 8",
+        "seasonNumber": "8",
         "episodes": [
           {
-            "episodeNumber": "12"
-          }
-        ]
-      },
-      {
-        "season": "season: 2019",
-        "episodes": [
-          {
+            "episodeTitle": "A Friendly Game; Sentimental Sponge",
             "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Squidward's School for Grown-Ups; Oral Report",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Frozen Face Off",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Accidents Will Happen; The Other Patty",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Drive Thru; The Hot Shot",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Sweet and Sour Squidward; The Googly Artiste",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Barnacle Face; Pet Sitter Pat",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Mermaidman Begins / Plankton's Good Eye",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "House Sittin' for Sandy; Smoothe Jazz at Bikini Bottom",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Ghoul Fools",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Patrick's Staycation; Walking the Plankton",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Mooncation; Mr. Krabs Takes a Vacation",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "SquarePants Family Vacation",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "The Krabby Patty That Ate Bikini Bottom; Bubble Buddy Returns",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Bubble Troubles; The Way of the Sponge",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Are You Happy Now; Planet of the Jellyfish",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "Restraining SpongeBob; Fiasco!",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "Free Samples; Home Sweet Rubble",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Karen 2.0; InSPONGEiac",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "Treats!; For Here or to Go",
+            "episodeNumber": "20"
+          },
+          {
+            "episodeTitle": "Squiditis; Demolition Doofus",
+            "episodeNumber": "21"
+          },
+          {
+            "episodeTitle": "Face Freeze!; Glove World R.I.P.",
+            "episodeNumber": "22"
+          },
+          {
+            "episodeTitle": "Hello Bikini Bottom!",
+            "episodeNumber": "23"
+          },
+          {
+            "episodeTitle": "The Good Krabby Name; Move It or Lose It",
+            "episodeNumber": "24"
+          },
+          {
+            "episodeTitle": "Super Evil Aquatic Villain Team Up Is Go!; Chum Fricassee",
+            "episodeNumber": "25"
+          },
+          {
+            "episodeTitle": "It's a SpongeBob Christmas!",
+            "episodeNumber": "26"
           }
         ]
       },
       {
-        "season": "season: 2022",
+        "title": "Season 9",
+        "seasonNumber": "9",
         "episodes": [
           {
+            "episodeTitle": "Extreme Spots; Squirrel Record",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "License to Milkshake; Squid Baby",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Eek, an Urchin!; Squid's Defense",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Patrick-Man!; Gary's New Toy",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Little Yellow Book; Bumper to Bumper",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Jailbreak!; Evil Spatula",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Safe Deposit Krabs; Plankton's Pet",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Don't Look Now; Séance Schméance",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "SpongeBob, You're Fired!",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "It Came From Goo Lagoon",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Kenny the Cat; Yeti Krabs",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Squid Plus One; The Executive Treatment",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Company Picnic; Pull Up a Barrel",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Sanctuary!; What's Eating Patrick?",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Patrick! the Game; The Sewers of Bikini Bottom",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "SpongeBob LongPants; Larry's Gym",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "Mall Girl Pearl; Two Thumbs Down",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "The Fishbowl; Married to Money",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "Sharks vs. Pods; CopyBob DittoPants",
+            "episodeNumber": "20"
+          },
+          {
+            "episodeTitle": "Sold!; Lame and Fortune",
+            "episodeNumber": "21"
+          },
+          {
+            "episodeTitle": "Pineapple Invasion; Salsa Imbecilicus",
+            "episodeNumber": "22"
+          },
+          {
+            "episodeTitle": "Sandy's Nutmare; Bulletin Board",
+            "episodeNumber": "23"
+          },
+          {
+            "episodeTitle": "Food Con Castaways; Snail Mail",
+            "episodeNumber": "24"
+          },
+          {
+            "episodeTitle": "Mutiny on the Krusty; The Whole Tooth",
+            "episodeNumber": "25"
+          },
+          {
+            "episodeTitle": "Goodbye, Krabby Patty?",
+            "episodeNumber": "26"
+          }
+        ]
+      },
+      {
+        "title": "Season 10",
+        "seasonNumber": "10",
+        "episodes": [
+          {
+            "episodeTitle": "Whirlybrains; MermaidPants",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Mimic Madness; House Worming",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Snooze You Lose; Krusty Katering",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "SpongeBob's Place; Plankton Gets the Boot",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Life Insurance; Burst Your Bubble",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Plankton Retires; Trident Trouble",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Unreal Estate; Code Yellow",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "The Getaway; Lost and Found",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Patrick's Coupon; Out of the Picture",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "The Incredible Shrinking Sponge; Sportz?",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Feral Friends; Don't Wake Patrick!",
+            "episodeNumber": "11"
+          }
+        ]
+      },
+      {
+        "title": "Season 11",
+        "seasonNumber": "11",
+        "episodes": [
+          {
+            "episodeTitle": "Spot Returns; The Check-Up",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Spin the Bottle; There's a Sponge in My Soup",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Cave Dwelling Sponge; The Clam Whisperer",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Man Ray Returns; Larry the Floor Manager",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "The Legend of Boo-Kini Bottom",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Krabby Patty Creature Feature; Teacher's Pests",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "No Pictures, Please; Stuck on the Roof",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Squid Noir; ScavengerPants",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Cuddle E. Hugs; Pat the Horse",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Chatterbox Gary; Don't Feed the Clowns",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Drive Happy; Old Man Patrick",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Fun-Sized Friends; Grandmum's the Word",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Doodle Dimension; Moving Bubble Bass",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "High Sea Diving; Bottle Burglars",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Sanitation Insanity; Bunny Hunt",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "My Leg!; Ink Lemonade",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "Mustard O' Mine; Shopping List",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "Whale Watching; Krusty Kleaners",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Patnocchio; ChefBob",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "Plankton Paranoia; Library Cards",
+            "episodeNumber": "20"
+          },
+          {
+            "episodeTitle": "The Grill Is Gone; The Night Patty",
+            "episodeNumber": "21"
+          },
+          {
+            "episodeTitle": "Call the Cops; Surf N' Turf",
+            "episodeNumber": "22"
+          },
+          {
+            "episodeTitle": "Appointment TV; Karen's Virus",
+            "episodeNumber": "23"
+          },
+          {
+            "episodeTitle": "Bubbletown; Girls' Night Out",
+            "episodeNumber": "24"
+          },
+          {
+            "episodeTitle": "Squirrel Jelly; The String",
+            "episodeNumber": "25"
+          },
+          {
+            "episodeTitle": "SpaceBob MerryPants",
+            "episodeNumber": "26"
+          }
+        ]
+      },
+      {
+        "title": "Season 12",
+        "seasonNumber": "12",
+        "episodes": [
+          {
+            "episodeTitle": "The Stars of SpongeBob Fan Favorites Special",
+            "episodeNumber": "0"
+          },
+          {
+            "episodeTitle": "The Nitwitting; The Ballad of Filthy Muck",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Sandy's Nutty Nieces; Insecurity Guards",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "SpongeBob's Big Birthday Blowout",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Gary's Got Legs; King Plankton",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "FarmerBob; Gary & Spot",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Broken Alarm; Karen's Baby",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "SpongeBob in RandomLand; SpongeBob's Bad Habit",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "The Krusty Bucket; Squid's on a Bus",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Handemonium; Breakin'",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Plankton's Old Chum; Stormy Weather",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "A Cabin in the Kelp; The Hankering",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Escape From Beneath Glove World",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Who R Zoo?; Kwarantined Krab",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Shell Games; Senior Discount",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "Jolly Lodgers; Biddy Sitting",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "Swamp Mates; One Trick Sponge",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Krusty Koncessionaires; Dream Hoppers",
+            "episodeNumber": "21"
+          },
+          {
+            "episodeTitle": "Lighthouse Louie; Hiccup Plague",
+            "episodeNumber": "22"
+          },
+          {
+            "episodeTitle": "Bubble Bass's Tab; Kooky Cooks",
+            "episodeNumber": "24"
+          },
+          {
+            "episodeTitle": "Knock Knock, Who's There?; Pat Hearts Squid",
+            "episodeNumber": "25"
+          },
+          {
+            "episodeTitle": "Plankton's Intern; Patrick's Tantrum",
+            "episodeNumber": "26"
+          },
+          {
+            "episodeTitle": "Patchy's Playlist",
+            "episodeNumber": "27"
+          },
+          {
+            "episodeTitle": "The SpongeBob SportsPants Countdown Special",
+            "episodeNumber": "29"
+          },
+          {
+            "episodeTitle": "SpongeBob's Spookiest Scenes Countdown Special",
             "episodeNumber": "30"
+          },
+          {
+            "episodeTitle": "The Patrick Star Fan Favorites Special",
+            "episodeNumber": "31"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "contentId": "09f1e16792d451a0a25b60eeb48c5238",
+    "title": "Martha Cooks",
+    "description": "Martha Stewart welcomes viewers to her farm kitchen, where she shares favorite recipes, cooking techniques and how-to instructions.",
+    "releaseDate": "2022-2023",
+    "sourceId": 1237,
+    "rokuLink": "https://therokuchannel.roku.com/details/09f1e16792d451a0a25b60eeb48c5238",
+    "device": "R",
+    "seasons": [
+      {
+        "title": "Season 1",
+        "seasonNumber": "1",
+        "episodes": [
+          {
+            "episodeTitle": "Martha Throws An Argentine Asado BBQ",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "The Perfect Jams to Pair With a Simple Breakfast",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "How to Properly Cook an Egg",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Pasta Night",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Shellfish",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Steak Night",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "A Classic French Dish: Pot Au Feu",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Paella on an Open Fire",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Vietnamese Cuisine",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Sweet and Savory Apple Dishes",
+            "episodeNumber": "10"
+          }
+        ]
+      },
+      {
+        "title": "Season 2",
+        "seasonNumber": "2",
+        "episodes": [
+          {
+            "episodeTitle": "Perfect Chicken Dinner",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Maine Lobster Dinner",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Pizza Perfection: Sicilian and Neapolitan-Style Pizzas",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Japanese Cuisine: Sushi, Sashimi and More",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Brunch Favorites",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "How to Make Croissants and Sourdough Bread",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "One Pot Wonders With Jamie Oliver",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Martha Throws a Tea Party",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Martha and the Chocolate Factory",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Perfect Burger Three Ways",
+            "episodeNumber": "10"
+          }
+        ]
+      },
+      {
+        "title": "Season 3",
+        "seasonNumber": "3",
+        "episodes": [
+          {
+            "episodeTitle": "Today's Catch: Fish Recipes for Everyday",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "India: A Tour of Food",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Magic Mushrooms",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Picture Perfect Rolled Lasagna",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Easy Homemade Dumplings",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "The Bagel Show",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Martha's Favorite Cakes",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Vegan Cuisine Redefined",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Authentic Greek Cuisine",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Jean-Georges and the Tin Building",
+            "episodeNumber": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "contentId": "b6c46cfe60ef5143bdf37e2aeb3427ab",
+    "title": "Lawmen: Bass Reeves",
+    "description": "From executive producers Taylor Sheridan and David Oyelowo, the untold story of the first Black U.S. Marshal, Bass Reeves.",
+    "releaseDate": "2023-2023",
+    "sourceId": 1237,
+    "rokuLink": "https://therokuchannel.roku.com/details/b6c46cfe60ef5143bdf37e2aeb3427ab",
+    "device": "R",
+    "seasons": [
+      {
+        "title": "Season 1",
+        "seasonNumber": "1",
+        "episodes": [
+          {
+            "episodeTitle": "Part I",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Part II",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Part III",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Part IV",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Part V",
+            "episodeNumber": "5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "contentId": "21a7fa677d14554cbc334f923ba07318",
+    "title": "90 Day Fiance: The Other Way",
+    "description": "Americans move to a foreign country all in the name of love. Will uprooting their lives in the United States pay off, or will they be packing up and moving back to America brokenhearted?",
+    "releaseDate": "2019-2023",
+    "sourceId": 1237,
+    "rokuLink": "https://therokuchannel.roku.com/details/21a7fa677d14554cbc334f923ba07318",
+    "device": "R",
+    "seasons": [
+      {
+        "title": "Season 1",
+        "seasonNumber": "1",
+        "episodes": [
+          {
+            "episodeTitle": "All in the Name of Love",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Embargos and Ultimatums",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "It's Go Time",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Big Expectations",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "No Looking Back",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Another World",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Broken Promises",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Chickening Out",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Ripped Apart",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Rolling the Dice",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Blind Trust",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Baby, Come Back",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Breaking Point",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "The Great Unknown",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Walking a Tight Rope",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Fool's Gold",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "Shattered Dreams",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "Torn",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Falling Apart",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "Never Let Me Go",
+            "episodeNumber": "20"
+          },
+          {
+            "episodeTitle": "Tell All: Part 1",
+            "episodeNumber": "21"
+          },
+          {
+            "episodeTitle": "Tell All: Part 2",
+            "episodeNumber": "22"
+          },
+          {
+            "episodeTitle": "Paul and Karine: Our Journey",
+            "episodeNumber": "101"
+          }
+        ]
+      },
+      {
+        "title": "Season 2",
+        "seasonNumber": "2",
+        "episodes": [
+          {
+            "episodeTitle": "Home Is Where the Heart Is",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "The Truth Will Set You Free",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Heart My Broken",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "My Life in 7 Suitcases",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Wing and a Prayer",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Don't Grumpy Stop",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "I'm Not Your Baby",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Rude Awakening",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Crossing the Line",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Forgiven, Not Forgotten",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Fight, Pray, Love",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "The Parent Trap",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Sticks and Stones",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "The Truth Hurts",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Ready or Not",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "The Consequences of Truth",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "Bris-fully Ignorant",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "Are You Done Yelling?",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Fight or Flight?",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "Not on My Watch",
+            "episodeNumber": "20"
+          },
+          {
+            "episodeTitle": "The Cost of Love",
+            "episodeNumber": "21"
+          },
+          {
+            "episodeTitle": "Never Stop Fighting",
+            "episodeNumber": "22"
+          },
+          {
+            "episodeTitle": "Ready or Not Sneak Peek",
+            "episodeNumber": "101"
+          },
+          {
+            "episodeTitle": "Consequences Sneak Peek",
+            "episodeNumber": "102"
+          },
+          {
+            "episodeTitle": "Bris-fully Ignorant Sneak Peek",
+            "episodeNumber": "103"
+          },
+          {
+            "episodeTitle": "You Done Yelling? Sneak Peek",
+            "episodeNumber": "104"
+          },
+          {
+            "episodeTitle": "Fight or Flight? Sneak Peek",
+            "episodeNumber": "105"
+          },
+          {
+            "episodeTitle": "Not on My Watch Sneak Peek",
+            "episodeNumber": "106"
+          },
+          {
+            "episodeTitle": "The Cost of Love Sneak Peek",
+            "episodeNumber": "107"
+          },
+          {
+            "episodeTitle": "Never Stop Fighting Sneak Peek",
+            "episodeNumber": "108"
+          }
+        ]
+      },
+      {
+        "title": "Season 3",
+        "seasonNumber": "3",
+        "episodes": [
+          {
+            "episodeTitle": "Love Makes You Crazy",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Testing Trust",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "Fight for Love",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "From Soup to Nuts",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Facing Fears",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Proceed With Caution",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "The Other Woman",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Selective Virtues",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Fish or Cut Bait",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "Stop the Excuses",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Written in the Stars",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Cold Feet",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Don't Overthink It",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Love Is Love",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Tell All",
+            "episodeNumber": "15"
+          }
+        ]
+      },
+      {
+        "title": "Season 4",
+        "seasonNumber": "4",
+        "episodes": [
+          {
+            "episodeTitle": "To Love and Be Wise",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "To Have Peace",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "If You Can't Jump, You Plunge",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "What the Mind Does Not Want",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "Lies Have Got No Legs",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Love Is One Thing ...",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Drop by Drop the River Rises",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "For Every Joy There Is a Price",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "A Beautiful Thing ...",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "One Hand Does Not Clap",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "The Tongue Has No Bone ...",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "The Glow Soon Becomes Ashes",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Winds Do Not Blow ...",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Never Say I Regret ...",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Where Is Love and Tell All 1",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Tell All Part 2",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "Tell All Part 3",
+            "episodeNumber": "17"
+          }
+        ]
+      },
+      {
+        "title": "Season 5",
+        "seasonNumber": "5",
+        "episodes": [
+          {
+            "episodeTitle": "Far Trek: The Next Generation",
+            "episodeNumber": "1"
+          },
+          {
+            "episodeTitle": "Long Distance Medium",
+            "episodeNumber": "2"
+          },
+          {
+            "episodeTitle": "How I Haven't Met Your Mother",
+            "episodeNumber": "3"
+          },
+          {
+            "episodeTitle": "Mad About What You Said",
+            "episodeNumber": "4"
+          },
+          {
+            "episodeTitle": "My So-Called Wi-Fi",
+            "episodeNumber": "5"
+          },
+          {
+            "episodeTitle": "Who's the Bossiest",
+            "episodeNumber": "6"
+          },
+          {
+            "episodeTitle": "Tales From the Crypto",
+            "episodeNumber": "7"
+          },
+          {
+            "episodeTitle": "Mistrust, She Wrote",
+            "episodeNumber": "8"
+          },
+          {
+            "episodeTitle": "Sarper and the City",
+            "episodeNumber": "9"
+          },
+          {
+            "episodeTitle": "In-Laws and Order",
+            "episodeNumber": "10"
+          },
+          {
+            "episodeTitle": "Breaking Bed",
+            "episodeNumber": "11"
+          },
+          {
+            "episodeTitle": "Little Post, Big World",
+            "episodeNumber": "12"
+          },
+          {
+            "episodeTitle": "Say Yes to the Mess",
+            "episodeNumber": "13"
+          },
+          {
+            "episodeTitle": "Be-hitched",
+            "episodeNumber": "14"
+          },
+          {
+            "episodeTitle": "Family Manners",
+            "episodeNumber": "15"
+          },
+          {
+            "episodeTitle": "Fuller House",
+            "episodeNumber": "16"
+          },
+          {
+            "episodeTitle": "Big Bank Theory",
+            "episodeNumber": "17"
+          },
+          {
+            "episodeTitle": "The XX XY Files",
+            "episodeNumber": "18"
+          },
+          {
+            "episodeTitle": "Owing Pains",
+            "episodeNumber": "19"
+          },
+          {
+            "episodeTitle": "Gimme a Break-Up",
+            "episodeNumber": "20"
           }
         ]
       }

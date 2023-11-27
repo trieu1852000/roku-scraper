@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node scraper.js",
-    "scraper": "node show-scraper.js"
+    "scraper": "node show-scraper.js",
+    "debug": "node --inspect show-scraper.js"
   },
   "keywords": [],
   "author": "",
